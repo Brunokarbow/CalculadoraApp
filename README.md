@@ -14,4 +14,7 @@
 
   <h3>✔ Preview da Página </h3>
   
+![Screenshot_1](https://user-images.githubusercontent.com/96805693/225454927-e7a9a3d7-7f03-4fb4-9c3f-c64aa9cf4f04.png)
+
+  
   
