@@ -10,7 +10,7 @@
      <p> ◻ BOOTSTRAP
 
 
-<a href="https://brunokarbow.github.io/CalculadoraApp/">Clique aqui e vizualize a página<a/>
+<a href="">Clique aqui e vizualize a página<a/>
 
   <h3>✔ Preview da Página </h3>
   
